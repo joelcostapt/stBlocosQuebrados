@@ -1,0 +1,9 @@
+# Conexão com a base de dados
+MySQL:
+  User: 'root'
+  Pass: ''
+  Host: 'localhost'
+  Port: 3306
+  Database: ''
+
+onBreak: 1 # Quantidade a adicionar de blocos ao quebrar

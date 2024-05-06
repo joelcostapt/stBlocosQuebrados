@@ -1,0 +1,8 @@
+name: stBlocosQuebrados
+version: '${project.version}'
+main: pt.joelcosta.stblocosquebrados.Main
+author: start.dev
+commands:
+  blocos:
+    aliases:
+      - bl
